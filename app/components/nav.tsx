@@ -9,3 +9,5 @@ function Nav({ children }: any) {
       </div>
     );
   }
+
+  export default Nav;
