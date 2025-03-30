@@ -1,5 +1,5 @@
 
-function Nav({ children }: any) {
+export default function Nav({ children }: any) {
     return (
       <div>
         <p>test component</p>
@@ -9,5 +9,3 @@ function Nav({ children }: any) {
       </div>
     );
   }
-
-  export default Nav;
